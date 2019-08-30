@@ -33,25 +33,10 @@
     "name": "typicode"
   },
   "mos": [
-    ['Best', 58.9], // green
-    ['Good', 13.29], // cyan
-    ['Fair', 13], // yellow
-    ['Poor', 3.78], // orange
-    ['Worst', 3.42] // red
-    /*{
-      "Best":"52"
-    },
-    {
-      "Good":"20"
-    },
-    {
-      "Fair":"15"
-    },
-    {
-      "Poor":"3.78"
-    },
-    {
-      "Worst":"3.42"
-    }*/
+    ['Best', 58.9], 
+    ['Good', 13.29], 
+    ['Fair', 13], 
+    ['Poor', 3.78], 
+    ['Worst', 3.42] 
   ]
 }
