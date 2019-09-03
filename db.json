@@ -34,19 +34,19 @@
   },
   "mos": [
     {
-      "Best":"85"
+      "Best":85
     },
     {
-      "Good":"5"
+      "Good":5
     },
     {
-      "Fair":"3"
+      "Fair":3
     },
     {
-      "Poor":"4"
+      "Poor":4
     },
     {
-      "Worst":"3"
+      "Worst":3
     }
   ]
 }
