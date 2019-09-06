@@ -1,52 +1,16 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    },
-    {
-      "id": 4,
-      "title": "Post 4"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "mos": [
-    {
-      "Best":85
-    },
-    {
-      "Good":5
-    },
-    {
-      "Fair":3
-    },
-    {
-      "Poor":4
-    },
-    {
-      "Worst":3
-    }
-  ]
+  "mosStats": {
+    "-worstSecTotal": "16",
+    "-worstPercentage": "1.2093726",
+    "-updateTime": "0",
+    "-totalSeconds": "1323",
+    "-poorSecTotal": "9",
+    "-poorPercentage": "0.6802721",
+    "-goodSecTotal": "33",
+    "-goodPercentage": "2.4943311",
+    "-fairSecTotal": "15",
+    "-fairPercentage": "1.1337869",
+    "-bestSecTotal": "1250",
+    "-bestPercentage": "94.48224"
+  }
 }
